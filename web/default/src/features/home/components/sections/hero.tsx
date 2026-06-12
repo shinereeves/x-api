@@ -162,7 +162,7 @@ export function Hero(props: HeroProps) {
                 >
                   {t('View Pricing')}
                 </Button>
-                {renderDocsButton()}
+                {/* {renderDocsButton()} */}
               </>
             )}
           </div>
